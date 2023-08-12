@@ -7,5 +7,5 @@ How to run it:
 4. run all the testing in postman
 
 ==
-*Notes:
+Notes:
 - playlist.json is the result of message broker
